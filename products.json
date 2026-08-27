@@ -1,0 +1,189 @@
+[
+  {
+    "id": "veg-1",
+    "name": "Fresh Red Tomatoes (ताज़े टमाटर)",
+    "category": "vegetables",
+    "price": 32,
+    "mrp": 45,
+    "units": [
+      { "label": "500g", "multiplier": 0.5 },
+      { "label": "1 kg", "multiplier": 1 },
+      { "label": "2 kg", "multiplier": 2 }
+    ],
+    "badge": "Wholesale Deal",
+    "image": "https://images.unsplash.com/photo-1592924357228-91a4daadcfea?w=400&q=80",
+    "description": "Farm-fresh ripe tomatoes, locally sourced daily."
+  },
+  {
+    "id": "veg-2",
+    "name": "Fresh Potatoes / Aloo (आलू)",
+    "category": "vegetables",
+    "price": 28,
+    "mrp": 38,
+    "units": [
+      { "label": "1 kg", "multiplier": 1 },
+      { "label": "2 kg", "multiplier": 2 },
+      { "label": "5 kg", "multiplier": 5 }
+    ],
+    "badge": "Bestseller",
+    "image": "https://images.unsplash.com/photo-1518977676601-b53f82aba655?w=400&q=80",
+    "description": "Premium quality table potatoes, firm & fresh."
+  },
+  {
+    "id": "veg-3",
+    "name": "Red Onions / Pyaz (प्याज)",
+    "category": "vegetables",
+    "price": 35,
+    "mrp": 48,
+    "units": [
+      { "label": "1 kg", "multiplier": 1 },
+      { "label": "2 kg", "multiplier": 2 },
+      { "label": "5 kg", "multiplier": 5 }
+    ],
+    "badge": "Daily Essential",
+    "image": "https://images.unsplash.com/photo-1618512496248-a07fe83aa8cf?w=400&q=80",
+    "description": "Crisp red onions, direct from Maharashtra farmers."
+  },
+  {
+    "id": "veg-4",
+    "name": "Organic Spinach / Palak (पालक)",
+    "category": "vegetables",
+    "price": 22,
+    "mrp": 30,
+    "units": [
+      { "label": "1 Bunch (250g)", "multiplier": 1 },
+      { "label": "2 Bunches", "multiplier": 2 }
+    ],
+    "badge": "Fresh Arrival",
+    "image": "https://images.unsplash.com/photo-1576045057995-568f588f82fb?w=400&q=80",
+    "description": "Tender green spinach leaves, washed & chemical-free."
+  },
+  {
+    "id": "veg-5",
+    "name": "Green Capsicum / Shimla Mirch (शिमला मिर्च)",
+    "category": "vegetables",
+    "price": 45,
+    "mrp": 60,
+    "units": [
+      { "label": "250g", "multiplier": 0.25 },
+      { "label": "500g", "multiplier": 0.5 },
+      { "label": "1 kg", "multiplier": 1 }
+    ],
+    "badge": "Wholesale Deal",
+    "image": "https://images.unsplash.com/photo-1563565375-f3fdfdbefa83?w=400&q=80",
+    "description": "Crispy green bell peppers rich in Vitamin C."
+  },
+  {
+    "id": "fruit-1",
+    "name": "Robusta Bananas (केला)",
+    "category": "fruits",
+    "price": 48,
+    "mrp": 65,
+    "units": [
+      { "label": "1 Dozen (12 pcs)", "multiplier": 1 },
+      { "label": "Half Dozen (6 pcs)", "multiplier": 0.5 }
+    ],
+    "badge": "Bestseller",
+    "image": "https://images.unsplash.com/photo-1571771894821-ce9b6c11b08e?w=400&q=80",
+    "description": "Sweet, naturally ripened golden bananas."
+  },
+  {
+    "id": "fruit-2",
+    "name": "Crisp Royal Gala Apples (सेब)",
+    "category": "fruits",
+    "price": 140,
+    "mrp": 180,
+    "units": [
+      { "label": "500g", "multiplier": 0.5 },
+      { "label": "1 kg", "multiplier": 1 },
+      { "label": "2 kg", "multiplier": 2 }
+    ],
+    "badge": "Premium",
+    "image": "https://images.unsplash.com/photo-1560806887-1e4cd0b6cbd6?w=400&q=80",
+    "description": "Juicy, sweet red apples imported fresh."
+  },
+  {
+    "id": "fruit-3",
+    "name": "Alphonso Mangoes / Hapus (हापुस आम)",
+    "category": "fruits",
+    "price": 450,
+    "mrp": 600,
+    "units": [
+      { "label": "1 Dozen (12 pcs)", "multiplier": 1 },
+      { "label": "Half Dozen (6 pcs)", "multiplier": 0.5 }
+    ],
+    "badge": "Seasonal Special",
+    "image": "https://images.unsplash.com/photo-1553279768-865429fa0078?w=400&q=80",
+    "description": "Authentic Ratnagiri Alphonso mangoes, rich aroma."
+  },
+  {
+    "id": "dairy-1",
+    "name": "Amul Taaza Toned Milk (दूध)",
+    "category": "dairy",
+    "price": 27,
+    "mrp": 27,
+    "units": [
+      { "label": "500 ml Pouch", "multiplier": 1 },
+      { "label": "1 Litre Pouch", "multiplier": 2 }
+    ],
+    "badge": "Daily Fresh",
+    "image": "https://images.unsplash.com/photo-1550583724-b2692b85b150?w=400&q=80",
+    "description": "Pasteurised toned milk, fresh every morning."
+  },
+  {
+    "id": "dairy-2",
+    "name": "Fresh Malai Paneer (पनीर)",
+    "category": "dairy",
+    "price": 90,
+    "mrp": 110,
+    "units": [
+      { "label": "200g Pack", "multiplier": 1 },
+      { "label": "500g Pack", "multiplier": 2.5 }
+    ],
+    "badge": "High Protein",
+    "image": "https://images.unsplash.com/photo-1631452180519-c014fe946bc7?w=400&q=80",
+    "description": "Soft, rich cottage cheese made from pure milk."
+  },
+  {
+    "id": "staple-1",
+    "name": "Fortune Sunlite Sunflower Oil (तेल)",
+    "category": "staples",
+    "price": 135,
+    "mrp": 160,
+    "units": [
+      { "label": "1 Litre Pouch", "multiplier": 1 },
+      { "label": "5 Litre Can", "multiplier": 5 }
+    ],
+    "badge": "Wholesale Price",
+    "image": "https://images.unsplash.com/photo-1474979266404-7eaacbcd87c5?w=400&q=80",
+    "description": "Refined sunflower cooking oil for healthy meals."
+  },
+  {
+    "id": "staple-2",
+    "name": "Aashirvaad Shudh Chakki Atta (आटा)",
+    "category": "staples",
+    "price": 215,
+    "mrp": 245,
+    "units": [
+      { "label": "5 kg Bag", "multiplier": 1 },
+      { "label": "10 kg Bag", "multiplier": 2 }
+    ],
+    "badge": "Bestseller",
+    "image": "https://images.unsplash.com/photo-1574323347407-f5e1ad6d020b?w=400&q=80",
+    "description": "100% pure whole wheat flour for soft rotis."
+  },
+  {
+    "id": "bev-1",
+    "name": "Fresh Tender Coconut / Nariyal (नारियल पानी)",
+    "category": "beverages",
+    "price": 50,
+    "mrp": 60,
+    "units": [
+      { "label": "1 Piece", "multiplier": 1 },
+      { "label": "3 Pieces", "multiplier": 3 }
+    ],
+    "badge": "Natural Energy",
+    "image": "https://images.unsplash.com/photo-1525385133512-2f3bdd039054?w=400&q=80",
+    "description": "Sweet electrolyte-rich natural green coconut water."
+  }
+]
